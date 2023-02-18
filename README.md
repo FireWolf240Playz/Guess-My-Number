@@ -6,9 +6,13 @@ This is a simple guessing game where the player has to guess a number between 1 
 How to Play
 
 1.Clone the repository or download the ZIP file.
+
 2.Open the terminal and navigate to the project directory.
+
 3.Enter a number between 1 and 100 and press enter.
+
 4.The program will let you know if your guess was too high or too low.
+
 5.Keep guessing until you correctly guess the number or run out of points.
 
 Features
