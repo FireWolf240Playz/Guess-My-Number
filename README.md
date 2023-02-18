@@ -17,12 +17,16 @@ How to Play
 
 Features
 
-Randomly generated number between 1 and 20.
-Keeps track of the player's points
-User-friendly interface
-Runs until the player wins or runs out of points
+✅Randomly generated number between 1 and 20.
+
+✅Keeps track of the player's points
+
+✅User-friendly interface
+
+✅Runs until the player wins or runs out of points
 
 Contributions
+
 This project is open for contributions. If you have any ideas to make the game more fun or have found any bugs, feel free to submit a pull request or open an issue.
 
 Thank you for playing!
